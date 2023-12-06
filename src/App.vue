@@ -17,7 +17,6 @@ async function getData(){
 <template >
   <div>
     <Button>HEEEELELOOOO</Button>
-    <Calendar/>
   </div>
 </template>
 
